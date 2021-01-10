@@ -1,0 +1,176 @@
+
+_DOS
+29  same_srv_rate
+30  diff_srv_rate
+23  count
+5  src_bytes
+4  flag
+38  dst_host_serror_rate
+6  dst_bytes
+35  dst_host_diff_srv_rate
+25  serror_rate
+24  srv_count
+36  dst_host_same_src_port_rate
+26  srv_serror_rate
+39  dst_host_srv_serror_rate
+2  protocol_type
+8  wrong_fragment
+33  dst_host_srv_count
+34  dst_host_same_srv_rate
+12  logged_in
+3  service
+40  dst_host_rerror_rate
+32  dst_host_count
+13  num_compromised
+27  rerror_rate
+37  dst_host_srv_diff_host_rate
+10  hot
+31  srv_diff_host_rate
+41  dst_host_srv_rerror_rate
+28  srv_rerror_rate
+1  duration
+22  is_guest_login
+7  land
+16  num_root
+14  root_shell
+11  num_failed_logins
+19  num_access_files
+17  num_file_creations
+15  su_attempted
+18  num_shells
+9  urgent
+20  num_outbound_cmds
+21  is_host_login
+
+
+_PROBE
+36  dst_host_same_src_port_rate
+5  src_bytes
+35  dst_host_diff_srv_rate
+33  dst_host_srv_count
+12  logged_in
+2  protocol_type
+40  dst_host_rerror_rate
+37  dst_host_srv_diff_host_rate
+6  dst_bytes .
+38  dst_host_serror_rate
+3  service .
+32  dst_host_count .
+27  rerror_rate .
+34  dst_host_same_srv_rate
+23  count
+41  dst_host_srv_rerror_rate .
+30  diff_srv_rate .
+25  serror_rate
+31  srv_diff_host_rate
+26  srv_serror_rate .
+4  flag
+24  srv_count
+39  dst_host_srv_serror_rate
+28  srv_rerror_rate
+29  same_srv_rate
+1  duration
+8  wrong_fragment
+10  hot
+16  num_root
+17  num_file_creations
+13  num_compromised
+7  land
+11  num_failed_logins
+22  is_guest_login
+14  root_shell
+15  su_attempted
+19  num_access_files
+18  num_shells
+9  urgent
+20  num_outbound_cmds
+21  is_host_login
+
+
+_R2L
+23  count
+3  service
+5  src_bytes
+33  dst_host_srv_count
+12  logged_in
+24  srv_count
+10  hot
+36  dst_host_same_src_port_rate
+32  dst_host_count
+37  dst_host_srv_diff_host_rate
+6  dst_bytes
+35  dst_host_diff_srv_rate
+22  is_guest_login
+1  duration
+31  srv_diff_host_rate
+34  dst_host_same_srv_rate
+29  same_srv_rate
+39  dst_host_srv_serror_rate
+30  diff_srv_rate
+4  flag
+11  num_failed_logins
+2  protocol_type
+38  dst_host_serror_rate
+40  dst_host_rerror_rate
+41  dst_host_srv_rerror_rate
+28  srv_rerror_rate
+25  serror_rate
+19  num_access_files
+14  root_shell
+16  num_root
+27  rerror_rate
+17  num_file_creations
+13  num_compromised
+26  srv_serror_rate
+18  num_shells
+9  urgent
+15  su_attempted
+8  wrong_fragment
+7  land
+21  is_host_login
+20  num_outbound_cmds
+
+
+_U2R
+1  duration
+24  srv_count
+33  dst_host_srv_count
+32  dst_host_count
+36  dst_host_same_src_port_rate
+23  count
+6  dst_bytes
+10  hot
+14  root_shell
+17  num_file_creations
+5  src_bytes
+13  num_compromised
+12  logged_in
+3  service
+35  dst_host_diff_srv_rate
+4  flag
+31  srv_diff_host_rate
+2  protocol_type
+29  same_srv_rate
+16  num_root
+34  dst_host_same_srv_rate
+38  dst_host_serror_rate
+27  rerror_rate
+37  dst_host_srv_diff_host_rate
+22  is_guest_login
+41  dst_host_srv_rerror_rate
+25  serror_rate
+18  num_shells
+11  num_failed_logins
+30  diff_srv_rate
+28  srv_rerror_rate
+40  dst_host_rerror_rate
+26  srv_serror_rate
+39  dst_host_srv_serror_rate
+15  su_attempted
+9  urgent
+19  num_access_files
+8  wrong_fragment
+20  num_outbound_cmds
+7  land
+21  is_host_login
+

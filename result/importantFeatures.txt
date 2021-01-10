@@ -1,0 +1,13 @@
+dur
+proto
+rate
+dttl
+sloss
+sinpkt
+sjit
+ct_srv_src
+ct_src_dport_ltm
+ct_dst_sport_ltm
+ct_dst_src_ltm
+ct_src_ltm
+is_sm_ips_ports
